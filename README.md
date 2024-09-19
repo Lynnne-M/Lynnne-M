@@ -1,6 +1,7 @@
 ## Hi there 👋
 
  ▪ 🔭 I’m exploring more in Data Science
+ 
  ▪ 🌱 I’m open to learning and relearning
 <!--
 **Lynnne-M/Lynnne-M** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
